@@ -2,9 +2,9 @@
 
 <img src="../static/xboard_relay.png">
 
-|                                    |                                                |                                 |                                             |                             |                     |
-| :--------------------------------- | :--------------------------------------------- | :------------------------------ | :------------------------------------------ | :-------------------------- | :------------------ |
-| [**Description**](../varFormat.md) | [**Technical Details**](./technicalDetails.md) | [**Documents**](./documents.md) | [**Related Project**](./relatedProjects.md) | [**Reviews**](./reviews.md) | [**QaA**](./QnA.md) |
+|                                     |                                            |                                 |                                             |                             |                     |     |
+| :---------------------------------- | :----------------------------------------- | :------------------------------ | :------------------------------------------ | :-------------------------- | :------------------ | :-- |
+| [**INTRODUCTION**](../varFormat.md) | [**GETTING STARTED**](./gettingStarted.md) | [**DOCUMENTS**](./documents.md) | [**RELATED PROJECT**](./relatedProjects.md) | [**REVIEWS**](./reviews.md) | [**QnA**](./QnA.md) |
 
 ## **Question and Answer**
 

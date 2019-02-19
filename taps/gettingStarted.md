@@ -6,6 +6,6 @@
 | :---------------------------------- | :----------------------------------------- | :------------------------------ | :------------------------------------------ | :-------------------------- | :------------------ | :-- |
 | [**INTRODUCTION**](../varFormat.md) | [**GETTING STARTED**](./gettingStarted.md) | [**DOCUMENTS**](./documents.md) | [**RELATED PROJECT**](./relatedProjects.md) | [**REVIEWS**](./reviews.md) | [**QnA**](./QnA.md) |
 
-## **Related Projects**
+## **Getting Started**
 
 ---

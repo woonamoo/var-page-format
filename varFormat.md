@@ -1,6 +1,10 @@
+<img src="./static/xboard_relay.png">
+
 # **Xboard Relay - Ethernet Controllered Relay**
 
-<img src="./static/xboard_relay.png">
+This is all about Xboard-Relay. (from elevator pitch)
+
+views / comments /
 
 |                                    |                                                 |                                      |                                                  |                                  |                          |     |
 | :--------------------------------- | :---------------------------------------------- | :----------------------------------- | :----------------------------------------------- | :------------------------------- | :----------------------- | :-- |
@@ -51,6 +55,10 @@
 ---
 
 ## **Related Articles**
+
+---
+
+## **Reviews**
 
 ---
 

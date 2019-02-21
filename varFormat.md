@@ -2,7 +2,7 @@
 
 # **Xboard Relay - Ethernet Controllered Relay**
 
-This is all about Xboard-Relay. (from elevator pitch)
+Xboard-Relay makes your IoT Device become easier. (from elevator pitch)
 
 views / comments /
 

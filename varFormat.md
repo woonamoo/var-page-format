@@ -16,7 +16,7 @@
 
 </span>
 
-- Arduino IDE
+- Programing with Arduino IDE
 - Micro USB @5V Supply
 - MQTT Library supported
 
@@ -33,7 +33,7 @@
 | **Ethernet**           |                                                  |
 | Chip                   | WIZ5100                                          |
 | **Memory**             |                                                  |
-| Flash                  | 32KB(ATmega32uA) of which 4KB used by bootloader |
+| Flash                  | 32KB(ATmega32u4) of which 4KB used by bootloader |
 | SRAM                   | 2.5KB (ATmega32u4)                               |
 | EEPROM                 | 1KB (ATmega32u4)                                 |
 | **Power**              |                                                  |

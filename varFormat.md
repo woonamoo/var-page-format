@@ -2,9 +2,11 @@
 
 # **Xboard Relay - Ethernet Controllered Relay**
 
-Xboard-Relay makes your IoT Device become easier. (from elevator pitch)
+Xboard-Relay makes your IoT Device become easier. Monitoring and Remote-control devices will be done with Xboard Relay. (from elevator pitch)
 
-views / comments /
+100 views / 10 comments /
+
+##### tags Xboard Relay IoT Ethernet
 
 |                                    |                                                 |                                      |                                                  |                                  |                          |     |
 | :--------------------------------- | :---------------------------------------------- | :----------------------------------- | :----------------------------------------------- | :------------------------------- | :----------------------- | :-- |

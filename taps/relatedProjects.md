@@ -15,3 +15,4 @@ views / comments /
 ---
 
 <img style="width:200px;" src="../static/xboard_relay.png">
+<img style="width:200px;" src="../static/xboard_relay.png">

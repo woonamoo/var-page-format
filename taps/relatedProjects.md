@@ -13,3 +13,5 @@ views / comments /
 ## **Related Projects**
 
 ---
+
+<img style="width:200px;" src="../static/xboard_relay.png">
